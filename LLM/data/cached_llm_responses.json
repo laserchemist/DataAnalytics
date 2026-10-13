@@ -1,0 +1,69 @@
+{
+ "_about": "Pre-generated answers to the classification prompt in Part 4 of the notebook, written by Claude when the notebook was built (October 2026) so the notebook runs without an API key. Set USE_API = True to regenerate them live.",
+ "G1": {"is_corporate_venturing": true, "dimensions": [
+   {"dimension": "Venture Building", "evidence_quote": "Other Bets operate as independent companies and some of them have their own boards with independent members and outside investors", "strength": "strong"},
+   {"dimension": "Accelerators and Incubators", "evidence_quote": "X, our moonshot factory focused on developing breakthrough technologies", "strength": "moderate"},
+   {"dimension": "Market Expansion", "evidence_quote": "Waymo, which is expanding to more cities domestically, entering international markets", "strength": "moderate"}],
+  "note": "Alphabet describes internally built ventures run as semi-independent companies."},
+ "G2": {"is_corporate_venturing": true, "dimensions": [
+   {"dimension": "Corporate Venture Capital", "evidence_quote": "Gains and losses on non-marketable equity securities are recognized in other income (expense), net (OI&E)", "strength": "moderate"},
+   {"dimension": "Financial Return", "evidence_quote": "The unrealized gains and losses or impairments we record from fair value remeasurements", "strength": "moderate"}],
+  "note": "Accounting language for minority stakes in private companies; it signals CVC activity without naming a fund."},
+ "G3": {"is_corporate_venturing": false, "dimensions": [
+   {"dimension": "Business Services", "evidence_quote": "Google Cloud generates revenues primarily from consumption-based fees and subscriptions for infrastructure, platform, applications, and other cloud services", "strength": "weak"}],
+  "note": "This is Google's core cloud business. It fits the Business Services definition, but nothing here is aimed at startups or ventures specifically."},
+ "G4": {"is_corporate_venturing": true, "dimensions": [
+   {"dimension": "Developing Entrepreneurial Culture and Capabilities", "evidence_quote": "That unconventional spirit has been a driving force throughout our history, inspiring us to tackle big problems and invest in moonshots", "strength": "moderate"}],
+  "note": "Cultural self-description rather than a specific program."},
+ "G5": {"is_corporate_venturing": false, "dimensions": [],
+  "note": "'Accelerator' here means AI chips (GPUs/TPUs), not a startup accelerator."},
+ "G6": {"is_corporate_venturing": true, "dimensions": [
+   {"dimension": "Accelerators and Incubators", "evidence_quote": "Each accelerator features a cohort of 10-15 top startups", "strength": "strong"},
+   {"dimension": "Mentorship", "evidence_quote": "paired with relevant experts from both Google and the industry to solve those challenges", "strength": "strong"},
+   {"dimension": "Events", "evidence_quote": "group learning sessions, and sprint projects", "strength": "weak"}],
+  "note": "Company web page for a named, cohort-based accelerator. The scraped text also contains unrelated carousel text about a portfolio company."},
+ "M1": {"is_corporate_venturing": true, "dimensions": [
+   {"dimension": "Corporate Venture Capital", "evidence_quote": "Microsoft is a major investor in OpenAI", "strength": "strong"},
+   {"dimension": "Venture Clienting", "evidence_quote": "the companies have reciprocal revenue-sharing arrangements", "strength": "moderate"},
+   {"dimension": "Access to New Technology", "evidence_quote": "We hold rights to OpenAIs intellectual property, including models and infrastructure, for integration into our products", "strength": "strong"}],
+  "note": "A strategic equity investment paired with commercial and IP rights."},
+ "M2": {"is_corporate_venturing": false, "dimensions": [
+   {"dimension": "Develop Business Ecosystems", "evidence_quote": "create platform-based ecosystems on which many participants can build diverse solutions", "strength": "moderate"}],
+  "note": "Describes an ecosystem strategy, but not a venturing program."},
+ "M3": {"is_corporate_venturing": false, "dimensions": [
+   {"dimension": "Social and Environmental Impact", "evidence_quote": "goals to become a carbon negative, water positive, and zero waste company by 2030", "strength": "weak"}],
+  "note": "Sustainability goals for Microsoft's own operations; no link to ventures in this passage."},
+ "M4": {"is_corporate_venturing": true, "dimensions": [
+   {"dimension": "Corporate Venture Capital", "evidence_quote": "Equity and other investments were $15.4 billion and $14.6 billion", "strength": "weak"}],
+  "note": "A balance-sheet total that may include venture stakes, but cannot be separated from other holdings."},
+ "M5": {"is_corporate_venturing": false, "dimensions": [],
+  "note": "'Business climate' is accounting boilerplate about goodwill impairment, not climate or venturing."},
+ "M6": {"is_corporate_venturing": false, "dimensions": [],
+  "note": "'Accelerated method' is a stock-compensation accounting term."},
+ "M7": {"is_corporate_venturing": true, "dimensions": [
+   {"dimension": "Corporate Venture Capital", "evidence_quote": "We invest in promising seed through B-stage companies", "strength": "strong"},
+   {"dimension": "Access to New Technology", "evidence_quote": "Investing in foundational technologies that drive enterprise innovation", "strength": "moderate"}],
+  "note": "M12 is Microsoft's named CVC fund. The page ends with placeholder 'Lorem Ipsum' text that the scraper picked up."},
+ "R1": {"is_corporate_venturing": true, "dimensions": [
+   {"dimension": "Venture Clienting", "evidence_quote": "a licensing and external alliance strategy focused on the entire spectrum of collaborations from early research to late-stage compounds", "strength": "moderate"},
+   {"dimension": "Access to New Technology", "evidence_quote": "as well as access to new technologies", "strength": "strong"}],
+  "note": "Open-innovation sourcing from outside partners; it does not say whether the partners are startups."},
+ "R2": {"is_corporate_venturing": false, "dimensions": [],
+  "note": "'Accelerated depreciation' is a restructuring accounting term."},
+ "R3": {"is_corporate_venturing": false, "dimensions": [
+   {"dimension": "Market Expansion", "evidence_quote": "The Companys focus on emerging markets, in addition to China, has continued.", "strength": "weak"}],
+  "note": "A market-expansion goal, but not achieved through venturing in this passage."},
+ "R4": {"is_corporate_venturing": false, "dimensions": [],
+  "note": "Internal R&D and competition, not external venturing."},
+ "R5": {"is_corporate_venturing": true, "dimensions": [
+   {"dimension": "Accelerators and Incubators", "evidence_quote": "nine-month accelerator that invests in and supports early-stage startups", "strength": "strong"},
+   {"dimension": "Corporate Venture Capital", "evidence_quote": "a SAFE investment from the Merck Global Health Innovation Fund (GHI)", "strength": "moderate"},
+   {"dimension": "Mentorship", "evidence_quote": "personalized mentoring from Centech advisors", "strength": "moderate"}],
+  "note": "A named accelerator that combines equity investment with mentoring."},
+ "R6": {"is_corporate_venturing": true, "dimensions": [
+   {"dimension": "Mentorship", "evidence_quote": "Gain tailored guidance from experienced mentors", "strength": "strong"},
+   {"dimension": "Events", "evidence_quote": "Participate in structured sessions with industry leaders and investors", "strength": "moderate"},
+   {"dimension": "Develop Business Ecosystems", "evidence_quote": "Join a supportive cohort of founders, alumni, and corporate innovators", "strength": "weak"},
+   {"dimension": "Corporate Venture Capital", "evidence_quote": "$100 000 USD SAFE investment", "strength": "moderate"}],
+  "note": "Program features listed on the accelerator's website."}
+}

@@ -1,0 +1,452 @@
+[
+ {
+  "ticker": "GOOGL",
+  "dimension": "Corporate Venture Capital",
+  "score": 92,
+  "rubric_band": "80-100",
+  "top_quote": "CapitalG is Alphabet's independent growth fund. CapitalG invests capital and expertise to help remarkable leaders accelerate the growth of their businesses. $7 billion in assets under management Resources to help you grow, with typical investments of $50-200 million per company",
+  "rationale": "Three named, dedicated CVC funds (GV, CapitalG, Gradient Ventures) with explicit AUM ($7B), investment sizes ($50-200M), portfolio metrics (50+ AI companies, 16 IPOs, 11 M&A), and quantified financial performance (billions in unrealized gains). This represents the highest tier of institutionalized CVC activity with dedicated investment teams, clear strategic focus areas (AI, growth-stage, seed), and measurable financial returns.",
+  "ensemble_samples": [
+   92.0,
+   92.0,
+   92.0,
+   92.0,
+   92.0
+  ]
+ },
+ {
+  "ticker": "GOOGL",
+  "dimension": "Accelerators and Incubators",
+  "score": 88,
+  "rubric_band": "80-100",
+  "top_quote": "Google for Startups Accelerators serve top growth-stage startups with tailored technical, product, and leadership training from Google experts. A global series of programs Each accelerator features a cohort of 10-15 top startups that come together to tackle specific technical challenges",
+  "rationale": "Multiple named accelerator programs (Google for Startups, Google.org Impact Challenge) with detailed structure (cohort-based, 10-15 startups, equity-free), specific programming (technical bootcamps, deep dives, workshops), quantified outcomes ($100B portfolio valuation, $25B raised), and global scale (125+ countries). Meets all criteria for comprehensive accelerator infrastructure.",
+  "ensemble_samples": [
+   88.0,
+   88.0,
+   88.0,
+   88.0,
+   88.0
+  ]
+ },
+ {
+  "ticker": "GOOGL",
+  "dimension": "Venture Building",
+  "score": 95,
+  "rubric_band": "80-100",
+  "top_quote": "Alphabets investment in the portfolio of Other Bets includes businesses that are at various stages of development, ranging from those in the research and development phase, such as X, our moonshot factory focused on developing breakthrough technologies",
+  "rationale": "Multiple named venture entities (Waymo, Verily, Wing, Isomorphic Labs, X) with detailed operational disclosure, independent governance structures (own boards, outside investors), quantified investment ($billions in Waymo round), consolidated VIE accounting, and revenue generation from autonomous transportation and internet services. This represents systematic venture building at scale with clear operational independence and staged development from moonshots to commercialization.",
+  "ensemble_samples": [
+   95.0,
+   95.0,
+   95.0,
+   95.0,
+   95.0
+  ]
+ },
+ {
+  "ticker": "GOOGL",
+  "dimension": "Venture Clienting",
+  "score": 78,
+  "rubric_band": "60-79",
+  "top_quote": "We help consumer companies expand their marketing channels, and we help enterprise companies build sales pipelines with qualified leads generating an average of $10 million in incremental pipeline revenue per company within the first year",
+  "rationale": "Clear evidence of venture clienting through commercial partnerships (data center VIEs, power purchase agreements), strategic acquisitions of emerging vendors (Wiz, Intersect for billions), and quantified commercial support ($10M pipeline revenue). However, evidence is more focused on infrastructure partnerships and M&A than explicit early-stage vendor relationships. Strong but not comprehensive venture clienting practice.",
+  "ensemble_samples": [
+   78.0,
+   78.0,
+   78.0,
+   78.0,
+   78.0
+  ]
+ },
+ {
+  "ticker": "GOOGL",
+  "dimension": "Mentorship",
+  "score": 90,
+  "rubric_band": "80-100",
+  "top_quote": "3500 Googlers have advised 4500 portfolio employees Hands-on go-to-market, people & talent, and product & engineering support, often producing multimillion-dollar value within the first year",
+  "rationale": "Quantified mentorship scale (3,500 Googlers, 4,500 portfolio employees), structured matching process (dedicated account leads, tailor-made connections), measurable value creation (multimillion-dollar value first year), and comprehensive support areas (technical, go-to-market, talent, product). This represents a comprehensive mentorship ecosystem with formal infrastructure and demonstrated impact.",
+  "ensemble_samples": [
+   90.0,
+   90.0,
+   90.0,
+   90.0,
+   90.0
+  ]
+ },
+ {
+  "ticker": "GOOGL",
+  "dimension": "Business Services",
+  "score": 94,
+  "rubric_band": "80-100",
+  "top_quote": "Developer Platform: delivers a fully managed AI development platform, through Vertex AI, for accessing, tuning, augmenting, and deploying custom models and agents, helping customers build applications with more than 200 foundation models",
+  "rationale": "Company's core business model centers on providing comprehensive infrastructure and platform services (Google Cloud Platform, Google Workspace) with billions in revenue backlog, 200+ foundation models, enterprise AI infrastructure, and startup-specific programs (cloud credits up to $200K). This represents the highest tier of business services provision as fundamental to company operations.",
+  "ensemble_samples": [
+   94.0,
+   94.0,
+   94.0,
+   94.0,
+   94.0
+  ]
+ },
+ {
+  "ticker": "GOOGL",
+  "dimension": "Workspace",
+  "score": 15,
+  "rubric_band": "0-19",
+  "top_quote": "N/A - No relevant evidence in 10-K",
+  "rationale": "Despite company_specific_context mentioning Google Campus locations, the 10-K filing contains zero evidence sentences about physical workspace provision. The filing discusses Google Workspace as software (collaboration tools), not physical space. Without 10-K disclosure, this dimension scores in the minimal range.",
+  "ensemble_samples": [
+   15.0,
+   15.0,
+   15.0,
+   15.0,
+   15.0
+  ]
+ },
+ {
+  "ticker": "GOOGL",
+  "dimension": "Events",
+  "score": 45,
+  "rubric_band": "40-59",
+  "top_quote": "Specialist deep dives In addition to mentorship and technical project support, Google for Startups Accelerators include deep dives and workshops focused on product design, customer acquisition, and leadership development for founders.",
+  "rationale": "Evidence shows structured event components (deep dives, workshops, bootcamps, learning sessions) within accelerator programs, but lacks detail on flagship conferences, hackathons, or standalone event series. Events are present as program elements rather than comprehensive event strategy. Moderate presence without extensive disclosure.",
+  "ensemble_samples": [
+   42.0,
+   45.0,
+   45.0,
+   42.0,
+   45.0
+  ]
+ },
+ {
+  "ticker": "GOOGL",
+  "dimension": "Risk Management",
+  "score": 72,
+  "rubric_band": "60-79",
+  "top_quote": "We were early to back the infrastructure layer of AI, including a dozen companies pushing the frontiers of photonic computing, integrated hardware-software platforms, data labeling, and inference. That early conviction led to early investments in companies like Snorkel, Deepset, SambaNova, Modular, and Lightmatter.",
+  "rationale": "Clear statements that investments help manage technology uncertainty (frontier technologies, AI infrastructure layer) with specific examples of early-stage technology hedging. However, risk management is positioned alongside other objectives rather than as the primary venturing rationale. Strong but not dominant risk management positioning.",
+  "ensemble_samples": [
+   72.0,
+   72.0,
+   72.0,
+   72.0,
+   72.0
+  ]
+ },
+ {
+  "ticker": "GOOGL",
+  "dimension": "Market Expansion",
+  "score": 80,
+  "rubric_band": "80-100",
+  "top_quote": "Waymo, which is expanding to more cities domestically, entering international markets, and further scaling operations",
+  "rationale": "Explicit market expansion objectives with quantified international revenue (52%), named geographic expansion (Waymo international markets), strategic acquisitions for new segments (Wiz, Intersect), and measurable commercial impact ($10M pipeline revenue per company). Multiple concrete examples across geographies and business segments demonstrate market expansion as primary venturing objective.",
+  "ensemble_samples": [
+   81.0,
+   80.0,
+   80.0,
+   81.0,
+   76.0
+  ]
+ },
+ {
+  "ticker": "GOOGL",
+  "dimension": "Access to New Technology",
+  "score": 96,
+  "rubric_band": "80-100",
+  "top_quote": "We have invested more than $200billion in research and development in the last five years in support of these efforts",
+  "rationale": "Massive quantified R&D investment ($200B+ over 5 years), multiple named frontier technology programs (AI, quantum computing, autonomous vehicles, drug discovery, fusion energy), 50+ AI company investments, strategic acquisitions for technology access, and explicit statement that early investments in frontier tech now incorporated into core products. This represents the highest tier of technology access as primary venturing objective.",
+  "ensemble_samples": [
+   96.0,
+   96.0,
+   96.0,
+   96.0,
+   96.0
+  ]
+ },
+ {
+  "ticker": "GOOGL",
+  "dimension": "Develop Business Ecosystems",
+  "score": 89,
+  "rubric_band": "80-100",
+  "top_quote": "Developer Platform: delivers a fully managed AI development platform, through Vertex AI, for accessing, tuning, augmenting, and deploying custom models and agents, helping customers build applications with more than 200 foundation models",
+  "rationale": "Multiple named platforms with quantified ecosystem metrics (200+ foundation models, distribution partners receiving TAC, Google Play developer revenue sharing), explicit orchestration of interdependent partners (advertisers, publishers, developers, content creators, distribution partners), and platform business models. Comprehensive ecosystem development across multiple business segments.",
+  "ensemble_samples": [
+   89.0,
+   91.0,
+   91.0,
+   89.0,
+   89.0
+  ]
+ },
+ {
+  "ticker": "GOOGL",
+  "dimension": "Social and Environmental Impact",
+  "score": 76,
+  "rubric_band": "60-79",
+  "top_quote": "We're pledging $50 million through 2030 to take action on superpollutants. We're working with AMP to transform waste from landfills and remove 200,000 tons of CO2 by 2030.",
+  "rationale": "Strong ESG commitment narrative with quantified climate targets ($50M pledge, 200K tons CO2 removal by 2030), named sustainability partnerships (AMP, Vaulted, Mombak), dedicated accelerator programs (climate change, circular economy), and AI principles emphasizing societal benefits. However, lacks board-level ESG oversight disclosure and comprehensive net-zero framework detail. Strong but not comprehensive impact positioning.",
+  "ensemble_samples": [
+   76.0,
+   75.0,
+   82.0,
+   76.0,
+   82.0
+  ]
+ },
+ {
+  "ticker": "GOOGL",
+  "dimension": "Developing Entrepreneurial Culture and Capabilities",
+  "score": 76,
+  "rubric_band": "60-79",
+  "top_quote": "As our founders Larry and Sergey wrote in the original founders' letter, 'Google is not a conventional company. We do not intend to become one.' That unconventional spirit has been a driving force throughout our history, inspiring us to tackle big problems",
+  "rationale": "Strong culture narrative with entrepreneurial language (unconventional spirit, moonshots, revolutionary change, independence), structural enablers (Other Bets independence, alternative governance), and capability development programs (leadership training, business model development). However, lacks named intrapreneurship program with dedicated budget. Strong cultural positioning without fully formalized internal entrepreneurship infrastructure.",
+  "ensemble_samples": [
+   70.0,
+   82.0,
+   76.0,
+   70.0,
+   78.0
+  ]
+ },
+ {
+  "ticker": "GOOGL",
+  "dimension": "Financial Return",
+  "score": 75,
+  "rubric_band": "60-79",
+  "top_quote": "In January 2026, we recognized approximately $ billion of unrealized gains in our non-marketable investments. These unrealized gains reflect an estimated increase in the fair value measurement following observable transactions that occurred in January 2026",
+  "rationale": "Significant non-marketable securities portfolio with disclosed gains/losses in OI&E (billions in unrealized gains), exit metrics (16 IPOs, 11 M&A), portfolio valuation ($100B alumni valuation), and revenue generation from ventures. However, lacks explicit IRR, TVPI, or detailed CVC portfolio performance metrics. Strong financial return evidence without comprehensive performance disclosure.",
+  "ensemble_samples": [
+   68.0,
+   68.0,
+   75.0,
+   75.0,
+   85.0
+  ]
+ },
+ {
+  "ticker": "MRK",
+  "dimension": "Corporate Venture Capital",
+  "score": 85,
+  "rubric_band": "80-100",
+  "top_quote": "MRL Ventures Fund (MRLV) partners with visionary founders pursuing breakthrough innovations and medicines to transform patient care. We invest globally in early-stage, preclinical therapeutics companies, providing capital, strategic guidance and access to Merck's deep domain expertise",
+  "rationale": "Merck demonstrates a comprehensive, institutionalized CVC program with named fund (MRLV), specific investment thesis (early-stage therapeutics), quantified capital commitment ($500M), portfolio metrics ($6.8B+ raised by portfolio companies, $6.3B in acquisitions), investment parameters (up to $25M per company), and explicit operational model (disciplined institutional VC without requiring rights). The 10-K also discloses detailed equity investment accounting including investment funds, observable price changes, and unrealized gains/losses. This meets all criteria for the 80-100 band: named fund, investment strategy, portfolio metrics, and governance structure.",
+  "ensemble_samples": [
+   85.0,
+   85.0,
+   85.0,
+   85.0,
+   85.0
+  ]
+ },
+ {
+  "ticker": "MRK",
+  "dimension": "Accelerators and Incubators",
+  "score": 78,
+  "rubric_band": "60-79",
+  "top_quote": "The Merck Digital Sciences Studio (MDSS) is a nine-month accelerator that invests in and supports early-stage startups developing digitally enabled technologies",
+  "rationale": "Merck has a clearly defined, named accelerator program (MDSS) with specific structural details: nine-month duration, 12 spots per cohort, two physical locations, $100K SAFE investment, mentoring from multiple sources, and structured programming. The program has defined focus areas (digitally enabled technologies for drug discovery/development) and explicit support mechanisms. This meets the 60-79 band criteria of 'at least one clearly defined accelerator or incubator program with specific naming, cohort structure, duration, and support mechanisms described.'",
+  "ensemble_samples": [
+   78.0,
+   78.0,
+   78.0,
+   78.0,
+   78.0
+  ]
+ },
+ {
+  "ticker": "MRK",
+  "dimension": "Venture Building",
+  "score": 42,
+  "rubric_band": "40-59",
+  "top_quote": "The Company also offers an extensive suite of digitally connected identification, traceability and monitoring products.",
+  "rationale": "Merck shows limited venture building activity through new business initiatives like digital health platforms (Allflex, Sure Petcare) and new product launches, but these are described as segment operations rather than independent ventures. The Animal Health segment includes health management solutions and digitally connected products that represent new business models, but lack the operational independence and separate governance typical of venture building. MRLV operates with some independence but is primarily a CVC fund. This fits the 40-59 band: 'Limited venture building activity with 1-2 identifiable new business initiatives that may operate with some independence but lack full disclosure of separate governance, P&L, or exit strategy.'",
+  "ensemble_samples": [
+   42.0,
+   42.0,
+   42.0,
+   42.0,
+   42.0
+  ]
+ },
+ {
+  "ticker": "MRK",
+  "dimension": "Venture Clienting",
+  "score": 72,
+  "rubric_band": "60-79",
+  "top_quote": "The Company is committed to ensuring that externally sourced programs remain an important component of its pipeline strategy, with a focus on supplementing its internal research through acquisitions as well as a licensing and external alliance strategy",
+  "rationale": "Merck demonstrates moderate to strong venture clienting through multiple named collaborations with biotechnology companies (many of which are emerging vendors), explicit strategic positioning of external partnerships as pipeline components, and specific licensing agreements with smaller companies. The company describes dependence on 'alliances with other pharmaceutical and biotechnology companies' and has numerous product development collaborations. While not explicitly framed as 'venture clienting,' the substance matches the definition: acting as paying customer/partner to emerging technology vendors. This meets the 60-79 band: 'Several references to partnerships with smaller or emerging technology providers, licensing from biotechnology startups, or pilot programs with innovative vendors.'",
+  "ensemble_samples": [
+   68.0,
+   72.0,
+   68.0,
+   72.0,
+   72.0
+  ]
+ },
+ {
+  "ticker": "MRK",
+  "dimension": "Mentorship",
+  "score": 75,
+  "rubric_band": "60-79",
+  "top_quote": "Selected startups gain direct access to Merck experts, personalized mentoring from Centech advisors",
+  "rationale": "Merck demonstrates established mentorship activities with clear organizational commitment across multiple programs (MDSS, MRLV, NJII). The evidence shows structured mentorship with named advisor sources (Merck experts, Centech advisors, R&D leaders), specific domains (scientific expertise, business strategy, technical support), and formal mechanisms (director/observer roles, regular working sessions, structured sessions with industry leaders). The company explicitly describes mentorship as a core component of its accelerator and CVC programs. This meets the 60-79 band: 'Established mentorship activities with clear organizational commitment. Discussion of advisory support to portfolio companies, startups, or internal innovators with some specificity about domains or mechanisms.'",
+  "ensemble_samples": [
+   72.0,
+   75.0,
+   72.0,
+   75.0,
+   75.0
+  ]
+ },
+ {
+  "ticker": "MRK",
+  "dimension": "Business Services",
+  "score": 35,
+  "rubric_band": "20-39",
+  "top_quote": "Through Microsoft for Startups Founders Hub startups in the MDSS will gain access to powerful technologies including Microsoft 365 and Azure as well as expert business advice and technical support.",
+  "rationale": "Merck provides minimal business services activity through partnership with Microsoft for Startups, offering cloud computing and technology platforms to MDSS accelerator participants. However, these services are delivered by a third party (Microsoft) rather than Merck's own infrastructure, are limited to a specific program (MDSS), and represent basic technology access rather than comprehensive business infrastructure. This fits the 20-39 band: 'Minimal business services activity. 10-K may reference basic API access, limited technology platforms, or partnership programs that provide some operational support to external parties, but not as a core business function.'",
+  "ensemble_samples": [
+   35.0,
+   35.0,
+   35.0,
+   35.0,
+   35.0
+  ]
+ },
+ {
+  "ticker": "MRK",
+  "dimension": "Workspace",
+  "score": 48,
+  "rubric_band": "40-59",
+  "top_quote": "MDSS will have locations in Newark, NJ and Cambridge, MA. Currently the program plans to include six startups at each of the Newark, NJ and Cambridge, MA venues.",
+  "rationale": "Merck provides moderate workspace through dedicated accelerator facilities in Newark and Cambridge that house startups and provide 'collaborative and entrepreneurial setting' with access to tools. However, the evidence primarily describes Merck's own research and manufacturing facilities rather than dedicated innovation spaces for external ventures. The MDSS locations are explicitly for startups but details are limited. This fits the 40-59 band: 'Moderate evidence of workspace provision through either physical or digital means. May describe innovation labs, R&D facilities that host external partners, or digital platforms that provide development environments, but without extensive detail on scale or utilization.'",
+  "ensemble_samples": [
+   48.0,
+   48.0,
+   48.0,
+   48.0,
+   48.0
+  ]
+ },
+ {
+  "ticker": "MRK",
+  "dimension": "Events",
+  "score": 28,
+  "rubric_band": "20-39",
+  "top_quote": "Participate in structured sessions with industry leaders and investors to strengthen your value proposition, business model, and go-to-market readiness.",
+  "rationale": "Merck shows minimal event activity limited to structured sessions within the MDSS accelerator program. While these sessions involve industry leaders and investors, they appear to be internal programming for cohort participants rather than broader innovation events. There is no mention of hosting conferences, hackathons, demo days, or other public innovation gatherings. This fits the 20-39 band: 'Minimal references to event participation, possibly limited to general statements about industry engagement, participation in trade shows, or internal innovation workshops without detail on scale or frequency.'",
+  "ensemble_samples": [
+   28.0,
+   25.0,
+   28.0,
+   28.0,
+   28.0
+  ]
+ },
+ {
+  "ticker": "MRK",
+  "dimension": "Risk Management",
+  "score": 58,
+  "rubric_band": "40-59",
+  "top_quote": "The Company is committed to ensuring that externally sourced programs remain an important component of its pipeline strategy, with a focus on supplementing its internal research through acquisitions as well as a licensing and external alliance strategy",
+  "rationale": "Merck demonstrates moderate positioning of venturing as risk management through explicit statements about using external programs to supplement internal research and mitigate competitive threats. The company describes diversifying its portfolio and using external alliances to access new technologies as hedges against disruption. However, the risk management framing is mixed with other strategic objectives and not positioned as the primary driver of venturing activities. This fits the 40-59 band: 'Moderate mention of venturing providing exposure to emerging technologies or market trends that could disrupt core business. May discuss portfolio diversification or technology scouting as risk mitigation alongside other objectives.'",
+  "ensemble_samples": [
+   58.0,
+   58.0,
+   52.0,
+   58.0,
+   58.0
+  ]
+ },
+ {
+  "ticker": "MRK",
+  "dimension": "Market Expansion",
+  "score": 70,
+  "rubric_band": "60-79",
+  "top_quote": "The Company has been taking steps to increase its sales in emerging markets.",
+  "rationale": "Merck clearly discusses market expansion as a strategic objective with concrete examples of geographic expansion (emerging markets, China, Latin America, Middle East, Africa, Eastern Europe, Asia Pacific) and new product launches across markets. The company quantifies international sales (44% of total) and describes specific market entry activities (regulatory approvals in China, Argentina). However, the connection between venturing activities and market expansion is implicit rather than explicit\u2014the 10-K doesn't directly state that CVC or accelerator programs are used for market expansion. This fits the 60-79 band: '10-K clearly discusses market expansion through venturing with several concrete examples of geographic expansion, new customer segments, or distribution channels enabled by venture investments or partnerships.'",
+  "ensemble_samples": [
+   75.0,
+   70.0,
+   71.0,
+   70.0,
+   68.0
+  ]
+ },
+ {
+  "ticker": "MRK",
+  "dimension": "Access to New Technology",
+  "score": 82,
+  "rubric_band": "80-100",
+  "top_quote": "The Company is committed to ensuring that externally sourced programs remain an important component of its pipeline strategy, with a focus on supplementing its internal research through acquisitions as well as a licensing and external alliance strategy, from early research to late-stage compounds, to gain access to new technologies.",
+  "rationale": "Merck explicitly positions technology access as a primary venturing objective with the direct statement about gaining 'access to new technologies' through external programs. The company demonstrates this through multiple named frontier technology acquisitions and licenses across diverse modalities (drug-Fc conjugates, mRNA, BTK inhibitors, KRAS inhibitors, ADCs, AI systems). The 10-K describes technology spanning early research to late-stage compounds, innovative manufacturing processes, and emerging platforms. This meets the 80-100 band: 'Multiple named frontier technology programmes across 3+ domains; R&D expenditure linked to external technology acquisition; explicit statements that venturing provides access to emerging or disruptive technologies.'",
+  "ensemble_samples": [
+   82.0,
+   82.0,
+   82.0,
+   82.0,
+   82.0
+  ]
+ },
+ {
+  "ticker": "MRK",
+  "dimension": "Develop Business Ecosystems",
+  "score": 65,
+  "rubric_band": "40-59",
+  "top_quote": "The Company is active in acquiring and marketing products through external alliances, such as licensing arrangements and collaborations",
+  "rationale": "Merck demonstrates substantial partner networks and distribution channels with multiple named collaborations and diverse stakeholder relationships. However, these are described primarily as bilateral partnerships and supply chain relationships rather than orchestrated platforms or ecosystems with network effects. The company has extensive alliances but doesn't describe them as an integrated ecosystem with interdependent partners or platform dynamics. This fits the 40-59 band: 'Channel partner, reseller, or distribution networks described with some scale indicators but without platform or marketplace framing. Multiple named partnerships or alliances but described as individual relationships rather than orchestrated ecosystem.'",
+  "ensemble_samples": [
+   65.0,
+   65.0,
+   65.0,
+   65.0,
+   65.0
+  ]
+ },
+ {
+  "ticker": "MRK",
+  "dimension": "Social and Environmental Impact",
+  "score": 76,
+  "rubric_band": "60-79",
+  "top_quote": "In 2024, the Company committed to a net-zero target for its GHG emissions across its global operations (Scopes 1, 2, and 3) by 2045, aligned with the guidelines of the Science Based Targets initiative (SBTi), a third-party organization.",
+  "rationale": "Merck demonstrates strong ESG commitment with quantified climate targets (46% reduction by 2030, net-zero by 2045, 100% renewable electricity), third-party validation (SBTi alignment), multiple named social impact programs (Merck for Mothers, Mectizan Donation Program, Patient Assistance Program), and integration into compensation (access to health metrics in scorecard for annual incentive pay). The company addresses both environmental (climate, water) and social (access to medicines, maternal health, neglected diseases) dimensions with specific metrics and programs. This meets the 60-79 band: 'Strong ESG commitment narrative with board-level oversight mentioned; multiple named programmes addressing climate, diversity, or social impact; some quantified targets or metrics disclosed.'",
+  "ensemble_samples": [
+   71.0,
+   77.0,
+   76.0,
+   77.0,
+   76.0
+  ]
+ },
+ {
+  "ticker": "MRK",
+  "dimension": "Developing Entrepreneurial Culture and Capabilities",
+  "score": 52,
+  "rubric_band": "40-59",
+  "top_quote": "The MDSS will provide a collaborative and entrepreneurial setting where scientists have access to the tools and expertise to fuel important innovations",
+  "rationale": "Merck describes culture with some entrepreneurial elements (collaborative and entrepreneurial setting, finding imaginative scientists and entrepreneurs, environment of empowerment) but primarily focuses on traditional leadership development and workforce capabilities. The entrepreneurial language is concentrated in specific programs (MDSS, MRLV) rather than describing company-wide cultural transformation. The company emphasizes continuous learning and adaptation but doesn't describe systematic intrapreneurship programs or entrepreneurial operating models. This fits the 40-59 band: 'Culture described with generic innovation language but limited entrepreneurial framing. May mention leadership development, continuous improvement, or agility without explicit intrapreneurship programs or startup-like operating models.'",
+  "ensemble_samples": [
+   52.0,
+   52.0,
+   58.0,
+   52.0,
+   52.0
+  ]
+ },
+ {
+  "ticker": "MRK",
+  "dimension": "Financial Return",
+  "score": 61,
+  "rubric_band": "60-79",
+  "top_quote": "Alliance revenue for Koselugo in 2025 primarily includes a $150 million upfront payment received and $175 million of regulatory approval milestones recorded",
+  "rationale": "Merck demonstrates significant financial returns from partnerships and alliances with quantified revenue growth (11% for Lynparza, 4% for Lenvima, 41% for Reblozyl), specific milestone payments ($150M upfront, $175M milestones for Koselugo), and substantial royalty income ($1.5B). The company tracks unrealized gains/losses on equity investments and discloses equity securities on the balance sheet. However, the 10-K doesn't provide explicit CVC portfolio-level metrics like IRR or TVPI. This fits the 60-79 band: 'Significant non-marketable securities portfolio value on balance sheet with disclosure of gains/losses; partnership revenue or royalties from ventures quantified; some evidence that financial performance of ventures is tracked and reported.'",
+  "ensemble_samples": [
+   68.0,
+   48.0,
+   61.0,
+   55.0,
+   71.0
+  ]
+ }
+]
