@@ -1,0 +1,35 @@
+excerpt_id,tweet_id,text,trap,suggested_label,why,negative,neutral,positive,compound,n_copies
+W1,649612737836920832,I love that Facebook lets us see our memories so I can know that it's been 5 yrs of being best friends w/ @JenniferATenut & @morriskatelyn!,worked example,positive,"""I love that Facebook lets us see our memories"": the feeling is aimed at a Facebook feature.",0.0,0.661,0.339,0.9151,1
+W2,649607834787815424,"Today, 3 years ago, the Angels unfortunately didn't make the playoffs. Facebook reminded me by showing my memories.",worked example (off-target),neutral,The sadness is about the Angels missing the playoffs. Facebook only delivered the reminder.,0.124,0.876,0.0,-0.34,1
+H1,649609011218763777,Deleted Facebook app from phone. It's amazing how much battery I have left at end of day.,"positive words, negative stance",negative,"Deleting the app is a rejection of Facebook; ""amazing"" praises the battery life, not Facebook.",0.0,0.808,0.192,0.5859,1
+H2,649611079580938241,Facebook's new layout changes sound so stupid. 7 second video to replace profile pictures? Temporary profile pictures? Why?,clear case,negative,"""so stupid"" is aimed directly at Facebook's layout changes.",0.224,0.776,0.0,-0.7101,1
+H3,649607393026908160,"Deactivating Facebook is still one of the best choices I've ever made. Why fill your soul with such negativity? On a daily basis, even!","positive words, negative stance",negative,"""best choices"" praises leaving; Facebook is the source of ""negativity"".",0.111,0.738,0.151,0.2942,1
+H4,649612821295177728,Esse facebook ta me irritando,non-English,negative,"Portuguese: ""This Facebook is irritating me.""",0.0,1.0,0.0,0.0,1
+H5,649607308398448640,300 Facebook fan page likes for $3 [link removed],spam / ad,neutral,An ad selling fake likes. No opinion about Facebook; arguably should be excluded.,0.0,0.579,0.421,0.6249,1
+H6,649606262905286657,Not sure I like the sound of Twitter's plan to remove the 140 character limit. It will turn into Facebook and that's not good!,sentiment about something else,negative,"Mostly about Twitter's plan, but ""turn into Facebook and that's not good"" judges Facebook.",0.244,0.756,0.0,-0.6975,1
+H7,649606981402148864,I cannot believe Im activelly enjoying a Facebook game,clear case,positive,"Enjoying a Facebook game, with mild surprise.",0.0,0.702,0.298,0.5267,1
+H8,649608080452374529,Do you still use Facebook ? #RNAMERCY,duplicate (13 copies),neutral,A question with no opinion. Posted 13 times within one second: a coordinated campaign.,0.0,1.0,0.0,0.0,13
+E1,649612440624168960,"Oh hey, facebook! You turned yourself back on because it's October! Think you should piss off for another 10 days. Ciao!",clear case,negative,"Tells Facebook to ""piss off"".",0.152,0.848,0.0,-0.5538,1
+E2,649612031021084673,Facebook app keeps on closing. WHYYYY?,"caps & punctuation, no sentiment words",negative,Complaint about crashes; VADER has no lexicon word to grab.,0.0,1.0,0.0,0.0,1
+E3,649605740504584192,"Facebook, I didn't ask you to autoplay every video I scroll past. Ugh. Fix this.",clear case,negative,"""Ugh. Fix this."" aimed at autoplay.",0.167,0.833,0.0,-0.4215,1
+E4,649606302407217153,Facebook has gotten worse over the years. My entire timeline is videos. Im too nervous to scroll through in class hoping I don't click on 1,clear case,negative,"""Facebook has gotten worse over the years.""",0.168,0.742,0.09,-0.34,1
+E5,649609385992409088,The new @Facebook feature coming is profile videos. I hope its an optional feature. Can you imagine little moving images all over your page?,polite skepticism,negative,Hopes the new profile videos are optional: mild negative toward the feature.,0.0,0.888,0.112,0.4404,1
+E6,649612355907813376,I prefer facebook but oh well I like tweeting👌👌👌,emoji,positive,"""I prefer facebook"". VADER's very high score comes mostly from the three 👌 emoji.",0.0,0.187,0.813,0.9855,1
+E7,649610771236716544,"Only 1 % Girls become 
+Wife of their lovers 
+
+Others are Just
+
+""Facebook password""
+😀😁😂😬",multi-line joke + emoji,neutral,A joke that uses Facebook as a prop; the emoji drive VADER's score.,0.11,0.564,0.326,0.8555,1
+E8,649612884490620929,"Jazz free facebook
+.
+code
+ Dail *442*8*1#
+.
+100% Working 0 Balnce
+* Zakir. H",spam + multi-line + non-English,neutral,A promo code for free Facebook data (Pakistan). Not an opinion.,0.0,0.809,0.191,0.5106,1
+E9,649605646476677121,"Successful Farming study shows 34% farmers use Facebook, 51% YouTube, 8% Twitter. Congrats. You are a select few!",named entity trap,neutral,"""Successful Farming"" is a magazine name; VADER reads ""Successful"" as praise.",0.0,0.681,0.319,0.8172,1
+E10,649605691343114241,Mas paspas pang youtube kaysa facebook. Nemellsss.,non-English,negative,"Tagalog: ""YouTube is faster than Facebook."" (mild complaint)",0.0,1.0,0.0,0.0,1
+E11,649612138852429824,Can't even use tinder at school cause they have Facebook blocked. 😭 #firstworldproblems,sentiment about something else,neutral,The frustration is about the school blocking sites.,0.286,0.714,0.0,-0.6369,1
+E12,649609193448730625,"#Peeple to increase hatred, local animosity, suicide, and job prevention. I thought Facebook had all of that covered already",sarcasm + Peeple startup,negative,Sarcasm: Facebook already causes hatred. The main target is the Peeple startup.,0.401,0.519,0.08,-0.8834,1
